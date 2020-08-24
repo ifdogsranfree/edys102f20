@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1149</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d47f34bb-1f9f-4b04-bc84-f4463baec3b7</dc:identifier>
+        <dc:title>The Idiot</dc:title>
+        <dc:creator opf:file-as="Batuman, Elif" opf:role="aut">Elif Batuman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.21.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-02-03T12:03:17+00:00</dc:date>
+        <dc:description>&lt;b&gt;A portrait of the artist as a young woman. A novel about not just discovering but inventing oneself.&lt;/b&gt;&lt;br&gt; The year is 1995, and email is new. Selin, the daughter of Turkish immigrants, arrives for her freshman year at Harvard. She signs up for classes in subjects she has never heard of, befriends her charismatic and worldly Serbian classmate, Svetlana, and, almost by accident, begins corresponding with Ivan, an older mathematics student from Hungary. Selin may have barely spoken to Ivan, but with each email they exchange, the act of writing seems to take on new and increasingly mysterious meanings. &lt;br&gt; &lt;br&gt; At the end of the school year, Ivan goes to Budapest for the summer, and Selin heads to the Hungarian countryside, to teach English in a program run by one of Ivan's friends. On the way, she spends two weeks visiting Paris with Svetlana. Selin's summer in Europe does not resonate with anything she has previously heard about the typical experiences of American college...</dc:description>
+        <dc:publisher>Penguin Publishing Group</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Elif Batuman&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-04-13T19:21:09+00:00" name="calibre:timestamp"/>
+        <meta content="Idiot, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
